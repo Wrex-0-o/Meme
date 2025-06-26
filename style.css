@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+}
+
+div{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 6%;
+    text-align: center;
+}
+
+img{
+    height:350px;
+    border: 10px solid burlywood;
+}
+
+h1{
+    color:antiquewhite;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 700;
+    font-style: normal;
+    text-transform: uppercase;
+}
+
+p{
+    color: whitesmoke;
+    font-family: "Caveat", cursive;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
